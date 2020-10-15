@@ -1,0 +1,6 @@
+Projekt c++ 
+Moim pomysłem do zrealizowania jest aplikacja okienkowa dzięki której możemy zarządzać kantorem. Po wejściu wyświetli się menu logowania.
+Po zalogowaniu użytkownik będzie miał do wyboru pare opcji. Kupno/sprzedaz , historia transakcji , obecny stan konta w kazdej z walut.
+Przy wybraniu opcji kupno lub sprzedaz uzytkownik musi wpisac ilosc ktora chce kupic/sprzedac oraz wybrac odpowiednia walute. Ilosc do 
+wydania przeliczy sie i wyswietli automatycznie po wpisaniu kursu. Oprocz tego aplikacja bedzie wyswietlala aktualny czas/date i jezeli
+sie uda data i godzina beda dopisywane do transakcji.Aplikacje chcialbym zrobic przy pomocy Qt (zdecyduje w najblizszych dniach).
