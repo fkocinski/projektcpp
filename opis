@@ -1,6 +1,18 @@
 Projekt c++ 
 Moim pomysłem do zrealizowania jest aplikacja okienkowa dzięki której możemy zarządzać kantorem. Po wejściu wyświetli się menu logowania.
-Po zalogowaniu użytkownik będzie miał do wyboru pare opcji. Kupno/sprzedaz , historia transakcji , obecny stan konta w kazdej z walut.
-Przy wybraniu opcji kupno lub sprzedaz uzytkownik musi wpisac ilosc ktora chce kupic/sprzedac oraz wybrac odpowiednia walute. Ilosc do 
+Po zalogowaniu użytkownik będzie miał do wyboru pare opcji. Kupno/sprzedaz , historia transakcji , obecny stan konta w kazdej z walut.Dodatkowo
+aplikacja będzie w stanie narysować wykres salda konta lub kursu waluty co będzie dawało użytkownikowi łatwo czytelne informacje.
+Przy wybraniu opcji kupno lub sprzedaz uzytkownik musi wpisac ilosc ktora chce kupic/sprzedac oraz wybrac odpowiednia walute. Kursy będą pobierane
+ze strony i prawdopodobnie zależnie od ilości od ceny rynkowej będzie różnica w cenie aby kantor zarobił na transakcji. Ilosc do 
 wydania przeliczy sie i wyswietli automatycznie po wpisaniu kursu. Oprocz tego aplikacja bedzie wyswietlala aktualny czas/date i jezeli
-sie uda data i godzina beda dopisywane do transakcji.Aplikacje chcialbym zrobic przy pomocy Qt (zdecyduje w najblizszych dniach).
+sie uda data i godzina beda dopisywane do transakcji.Aplikacje chcialbym zrobic przy pomocy Qt (zdecyduje w najblizszych dniach). Podpunkty , na których będę się skupiał
+pisząc aplikajce:
+-Logowanie do aplikacji , sprawdzenie poprawności danych
+-Pobranie kursów ze strony internetowej
+-Rysowanie wykresu za pomocą pobranych danych w czasie rzeczywistym
+-Zapamiętywanie transakcji i ich zapisywanie
+-Zmienne odpowiadające za ilość danej waluty na kasie
+-Estetyka aplikacji, jej przejrzystość i łatwość użycia
+-Zależnie od kwoty transakcji zmiana ceny na  bardziej korzystną i atrakcyjną dla klienta
+-pobieranie aktualnego czasu i wyświetlanie
+
