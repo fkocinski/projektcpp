@@ -16,3 +16,16 @@ pisząc aplikajce:
 -Zależnie od kwoty transakcji zmiana ceny na  bardziej korzystną i atrakcyjną dla klienta
 -pobieranie aktualnego czasu i wyświetlanie
 
+Etap 1
+ -Ogólne stworzenie i skonfigurowanie projektu, nazwa projektu "Kantor C++"
+ -Konfiguracja i stworzenie loalnej bazy danych oraz logowanie w samej aplikacji QT
+Etap 2
+-Pobieranie kursów walut z jakiegoś darmowego API
+Etap  3
+-Stworzenie portfela użytkownika(środki startowe będa ręcznie dodane w baziei użytkownik będzie mógł zamieniać waluty według aktualnego kursu),
+Etap 4
+-Dodanie opcji zakupu waluty, wyglądac to będzie tak że baza ma tabele waluty i w tej tabeli jest np 
+ID(użytkownika) WALUTA ILOSC
+i po prostu dokonując zakupu np z pola ZŁ zmniejsza się kwota w tym wpisie i dodaje do EUR obliczając po kursie pobranym z api.
+-Etap 5
+Rysowanie wykresów
