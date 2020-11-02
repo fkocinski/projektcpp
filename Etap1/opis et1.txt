@@ -1,0 +1,13 @@
+1 etap poszedl mi dosyc sprawnie i bez wiekszych problemow.Caly czas poznaje to nowe funkcje
+Qt.Stworzylem i skonfigurowalem projekt Qt. Utworzylem rowniez podstawowy interfejs graficzny,
+bardzo mozliwe ze zmieni sie on z czasem , poki co skupiam sie bardziej na dzialaniu programu
+i wszystkich elementow. Na ta chwile dziala system logowania , oraz istnieje baza danych
+zawierajaca informacje o uzytkownikach ktorzy maja konto :  ID, nazwa użytkownika, hasło, posiadane waluty (PLN, USD, EUR, CHF, CAD, GBP, JPY, CZK)
+Utworzylem 2 konta z roznymi stanami kont , pierwsze ( login:marek haslo: haslo123 ; login:user1 hasło:123456)
+Jestem zadowolony z efektu pracy , napotkalem male problemy podczas dodawania logowania do
+aplikacji lecz ostatecznie wszystko udalo sie rozwiazac (musialem uwzglednic przypadki gdzie
+nie udalo sie otworzyc bazy danych , pomyslnie wczytano baze danych ,przypadek jezeli nie podano
+loginu lub hasla , oraz prawidlowosc loginu i haslo, jezeli bedzie trzeba moge dodac komentarze 
+gdzie w kodzie jest rozwiazanyt dany przypadek).
+Kolejny etap wniesie duzo, dodam prawdopodobnie funkcje rozmieniania waluty , przeliczania
+z danej waluty na inna , moze historie transakcji.
