@@ -1,0 +1,13 @@
+Etap 2 zajął mi troche czasu,lecz mimo tego osiagnalem postawiony sobie cel.W połowie napotkałem pewnoe
+problemy z uruchomieniem aplikacji lecz wynikało to ze zmiany komputera i konfiguracji Qt. W tym
+etapie dodałem pobierani kursów walut z API (http://api.nbp.pl) w formacie JSON. Kursy sa pobierane
+a nastepnie dodawane do tablicy.Waluty ktore umieszczone sa w liscie to USD,EUR,CHF,CAD,GBP,JPY,CZK.
+Wszystkie kursy oparte sa o PLN. Oprocz tego pojawilo sie troche poprawek w moim kodzie z etapu 1.
+Juz kilka dni temu zaczalem prace nad kolejnym etapem i moim celem na 3 etap jest : dodanie portfela 
+uzytkownika, bedzie on zapisywal stan walut uzytkownika, bedzie pobieral informacje o posiadanych przez
+uzytkownika walutach z bazy danych ktora stworzylem wczesniej. Chce rowniez dodac opccje wyswietlania
+stanu portfela uzytkownika w wybranych walutach.Oprocz tego w  kodzie zaznaczylem gdzie znajduje sie tablica
+z walutami.
+
+
+
