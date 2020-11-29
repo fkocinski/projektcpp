@@ -1,0 +1,18 @@
+
+Zalozeniem etapu 3 projektu bylo min. dodanie portfela uzytkownika , ktory bedzie zapisywal stany
+konta w kazdej walucie danego uzytkownika. Portfel dziala tak ze pobiera informacje o posiadanych
+walutach i ich ilosci z bazy danych , ktora utworzylem we wczesniejszych etapach. Drugim celem
+bylo dodanie opcji wyswietlania stanu portfela w walucie ktora wybierzemy. Cele ktore sobie 
+zalozylem na etap 3 udalo sie zrealizowac w pelni. Najwieksze problemy mysle ze napotkalem przy 
+zapisywaniu stanu danej waluty w bazie danych. Rzecza ktora zrobilem przy okazji jest dodanie 
+PLN do tablicy walut na pierwszej pozycji. Jestem na etapie projektu gdzie potrzebuje komentarzy
+w kodzie aby sprawniej sie w nim odnajdowac i szybciej rozwijac aplikacje. W wersji ktora wrzucam
+na githuba nie ma tych kometarzy jednak jezeli Pan chce moge umieszczac rowniez wersje z komentarzami.
+Celami do wype³nienia w etapie 4 projektu sa: wymiana walut uzytkownika wedlug aktualnych kursow pobieranych.
+Oraz aktualizowanie na biezaco stanu konta uzytkownika tak aby po wymianie ilosc danych walut byla zmieniana
+w bazie danych.
+
+
+
+
+
