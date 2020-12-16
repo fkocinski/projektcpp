@@ -1,0 +1,11 @@
+Etap 4 poszed³ mi dosyæ sprawnie. Celami by³o:wymiana walut uzytkownika wedlug aktualnych kursow pobieranych.
+Oraz aktualizowanie na biezaco stanu konta uzytkownika tak aby po wymianie ilosc danych walut byla zmieniana
+w bazie danych. Wszystkie postawione cele uda³o siê wykonaæ. Ca³oœæ wygl¹da ju¿ dosyæ obiecuj¹co i wszystko dzia³a
+spójnie. W kolejnych czêœciach spróbuje odnaleŸæ fragmenty kodu które
+mogê zoptymalizowaæ oraz do³¹cze do aplikacji rysowanie wykresów.Wykresy
+bêd¹ tworzone tak ze pobierane beda ostatnie zanotowane kursy wybranej 
+przez uzytkownika waluty. Jezeli wykresy beda dzialaly poprawnie zajme sie ich formatowaniem.
+
+
+
+
