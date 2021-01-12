@@ -1,0 +1,9 @@
+
+To ju¿ prototyp mojej aplikacji. Z efektów jak na t¹ chwilê jestem bardzo zadowolony ,
+sprawdza³em wiele wariantów jej dzia³ania i wszystko dzia³a poprawnie. Od ostatniego etapu
+poprawi³em pare rzeczy w kodzie i doda³em rysowanie wykresów. Wykresy
+s¹ tworzone tak ze pobierane beda ostatnie zanotowane kursy wybranej 
+przez uzytkownika waluty.Teraz zacz¹³em prace nad wygl¹dem aplikacji , bo mam pewnoœæ
+¿e wiêkszoœæ rzeczy które zak³ada³em na pocz¹tku dzia³a poprawnie.Pracujê jeszcze równie¿
+nad formatowaniem wykresów (odpowiednia skala ...).Na t¹ chwilê spe³ni³em wszystkie za³o¿enia 
+z pocz¹tku projektu. Myœlê ¿e po dopracowaniu aplikacja bêdzie robi³a dobre wra¿enie.
